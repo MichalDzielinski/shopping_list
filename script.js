@@ -11,6 +11,7 @@ function addItem(e){
         alert('Please add an item');
         return
     }
+    
 
     // Create list item
     const li = document.createElement('li');
